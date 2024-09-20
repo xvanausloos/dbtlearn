@@ -13,5 +13,5 @@ SELECT
     created_at,
     updated_at
 FROM
-    raw_listings
+    raw_listings    
     
